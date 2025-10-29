@@ -1,4 +1,4 @@
-# Ed Cupcakes - Documentação Ágil
+# Caramel Coffee and Cupcakes - Documentação Ágil
 ## Situação-Problema 1: Análise e Levantamento de Requisitos
 
 ---
